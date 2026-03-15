@@ -32,7 +32,11 @@ A web-based system to manage student records, attendance, and marks.
 4. Open `http://127.0.0.1:5000`
 
 ## Project Screenshots
-(Add screenshots here)
+Screenshot 2026-03-15 210429.png(admin login)
+Screenshot 2026-03-15 210900.png(dashboard)
+Screenshot 2026-03-15 211024.png(student records)
+Screenshot 2026-03-15 211140.png(attendance records)
+Screenshot 2026-03-15 211207.png(maarks records)
 
 ## Author
 Mohammad Abeda Naseema
